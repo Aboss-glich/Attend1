@@ -1,0 +1,552 @@
+{
+  "students": {
+    "Class 10-A": [
+      {
+        "name": "Aarav Sharma",
+        "roll": "01",
+        "color": "green",
+        "rate": 96
+      },
+      {
+        "name": "Diya Patel",
+        "roll": "02",
+        "color": "pink",
+        "rate": 94
+      },
+      {
+        "name": "Kabir Singh",
+        "roll": "03",
+        "color": "blue",
+        "rate": 89
+      },
+      {
+        "name": "Meera Joshi",
+        "roll": "04",
+        "color": "purple",
+        "rate": 82
+      },
+      {
+        "name": "Rohan Verma",
+        "roll": "05",
+        "color": "orange",
+        "rate": 98
+      },
+      {
+        "name": "Ishita Rao",
+        "roll": "06",
+        "color": "yellow",
+        "rate": 91
+      },
+      {
+        "name": "Nisha Gupta",
+        "roll": "07",
+        "color": "pink",
+        "rate": 88
+      },
+      {
+        "name": "Yash Malhotra",
+        "roll": "08",
+        "color": "blue",
+        "rate": 93
+      },
+      {
+        "name": "Tanya Kapoor",
+        "roll": "09",
+        "color": "orange",
+        "rate": 79
+      },
+      {
+        "name": "vikash",
+        "roll": "23",
+        "color": "green",
+        "rate": 0
+      }
+    ],
+    "Class 10-B": [
+      {
+        "name": "Vivaan Mehta",
+        "roll": "01",
+        "color": "blue",
+        "rate": 93
+      },
+      {
+        "name": "Anaya Shah",
+        "roll": "02",
+        "color": "pink",
+        "rate": 97
+      },
+      {
+        "name": "Arjun Nair",
+        "roll": "03",
+        "color": "orange",
+        "rate": 88
+      },
+      {
+        "name": "Sara Khan",
+        "roll": "04",
+        "color": "purple",
+        "rate": 91
+      },
+      {
+        "name": "Manav Joshi",
+        "roll": "05",
+        "color": "green",
+        "rate": 95
+      },
+      {
+        "name": "Ira Mehta",
+        "roll": "06",
+        "color": "yellow",
+        "rate": 87
+      },
+      {
+        "name": "Dev Shah",
+        "roll": "07",
+        "color": "pink",
+        "rate": 90
+      }
+    ],
+    "Class 9-A": [
+      {
+        "name": "Aditya Rao",
+        "roll": "01",
+        "color": "green",
+        "rate": 90
+      },
+      {
+        "name": "Myra Kapoor",
+        "roll": "02",
+        "color": "yellow",
+        "rate": 95
+      },
+      {
+        "name": "Reyansh Das",
+        "roll": "03",
+        "color": "blue",
+        "rate": 86
+      },
+      {
+        "name": "Avni Sethi",
+        "roll": "04",
+        "color": "purple",
+        "rate": 92
+      },
+      {
+        "name": "Dhruv Bansal",
+        "roll": "05",
+        "color": "orange",
+        "rate": 84
+      },
+      {
+        "name": "Kiara Jain",
+        "roll": "06",
+        "color": "pink",
+        "rate": 96
+      }
+    ],
+    "11-B": []
+  },
+  "attendance": {
+    "Class 10-A|2026-08-25": {
+      "01": {
+        "status": "present",
+        "checkIn": "08:42 IST"
+      },
+      "02": {
+        "status": "present",
+        "checkIn": "08:47 IST"
+      },
+      "03": {
+        "status": "late",
+        "checkIn": "09:16 IST"
+      },
+      "04": {
+        "status": "absent",
+        "checkIn": "-"
+      },
+      "05": {
+        "status": "present",
+        "checkIn": "08:39 IST"
+      },
+      "06": {
+        "status": "present",
+        "checkIn": "08:51 IST"
+      }
+    },
+    "Class 10-A|2026-08-26": {
+      "01": {
+        "status": "present",
+        "checkIn": "08:44 IST"
+      },
+      "02": {
+        "status": "late",
+        "checkIn": "09:08 IST"
+      },
+      "03": {
+        "status": "present",
+        "checkIn": "08:56 IST"
+      },
+      "04": {
+        "status": "present",
+        "checkIn": "08:49 IST"
+      },
+      "05": {
+        "status": "present",
+        "checkIn": "08:41 IST"
+      },
+      "06": {
+        "status": "absent",
+        "checkIn": "-"
+      }
+    },
+    "Class 10-A|2026-08-27": {
+      "01": {
+        "status": "present",
+        "checkIn": "08:43 IST"
+      },
+      "02": {
+        "status": "present",
+        "checkIn": "08:48 IST"
+      },
+      "03": {
+        "status": "present",
+        "checkIn": "08:55 IST"
+      },
+      "04": {
+        "status": "late",
+        "checkIn": "09:12 IST"
+      },
+      "05": {
+        "status": "present",
+        "checkIn": "08:37 IST"
+      },
+      "06": {
+        "status": "present",
+        "checkIn": "08:50 IST"
+      }
+    },
+    "Class 10-B|2026-08-27": {
+      "01": {
+        "status": "present",
+        "checkIn": "08:46 IST"
+      },
+      "02": {
+        "status": "present",
+        "checkIn": "08:44 IST"
+      },
+      "03": {
+        "status": "late",
+        "checkIn": "09:19 IST"
+      },
+      "04": {
+        "status": "absent",
+        "checkIn": "-"
+      }
+    },
+    "Class 9-A|2026-08-27": {},
+    "Class 10-A|2026-08-22": {
+      "01": {
+        "status": "present",
+        "checkIn": "08:45 IST"
+      },
+      "02": {
+        "status": "present",
+        "checkIn": "08:50 IST"
+      },
+      "03": {
+        "status": "late",
+        "checkIn": "09:11 IST"
+      },
+      "04": {
+        "status": "present",
+        "checkIn": "08:56 IST"
+      },
+      "05": {
+        "status": "present",
+        "checkIn": "08:40 IST"
+      },
+      "06": {
+        "status": "absent",
+        "checkIn": "-"
+      },
+      "07": {
+        "status": "present",
+        "checkIn": "08:53 IST"
+      },
+      "08": {
+        "status": "present",
+        "checkIn": "08:47 IST"
+      },
+      "09": {
+        "status": "late",
+        "checkIn": "09:06 IST"
+      }
+    },
+    "Class 10-B|2026-08-26": {
+      "01": {
+        "status": "present",
+        "checkIn": "08:46 IST"
+      },
+      "02": {
+        "status": "present",
+        "checkIn": "08:44 IST"
+      },
+      "03": {
+        "status": "present",
+        "checkIn": "08:58 IST"
+      },
+      "04": {
+        "status": "late",
+        "checkIn": "09:07 IST"
+      },
+      "05": {
+        "status": "present",
+        "checkIn": "08:42 IST"
+      },
+      "06": {
+        "status": "absent",
+        "checkIn": "-"
+      },
+      "07": {
+        "status": "present",
+        "checkIn": "08:55 IST"
+      }
+    },
+    "Class 9-A|2026-08-26": {
+      "01": {
+        "status": "present",
+        "checkIn": "08:51 IST"
+      },
+      "02": {
+        "status": "late",
+        "checkIn": "09:04 IST"
+      },
+      "03": {
+        "status": "present",
+        "checkIn": "08:57 IST"
+      },
+      "04": {
+        "status": "present",
+        "checkIn": "08:48 IST"
+      },
+      "05": {
+        "status": "absent",
+        "checkIn": "-"
+      },
+      "06": {
+        "status": "present",
+        "checkIn": "08:46 IST"
+      }
+    },
+    "Class 10-A|2026-08-28": {
+      "01": {
+        "status": "present",
+        "checkIn": "11:12 am IST"
+      }
+    },
+    "Class 10-A|2026-10-08": {
+      "23": {
+        "status": "present",
+        "checkIn": "02:38 pm IST"
+      },
+      "01": {
+        "status": "late",
+        "checkIn": "02:38 pm IST"
+      },
+      "02": {
+        "status": "absent",
+        "checkIn": "—"
+      },
+      "03": {
+        "status": "absent",
+        "checkIn": "—"
+      }
+    }
+  },
+  "leaves": [
+    {
+      "id": "leave-1791526775108-fbfb2d",
+      "student": "vikash",
+      "className": "Class 10-A",
+      "from": "2026-10-09",
+      "to": "2026-10-09",
+      "reason": "Personal work",
+      "status": "pending"
+    },
+    {
+      "id": "leave-1791450555680-5b6f63",
+      "student": "vikash",
+      "className": "Class 10-A",
+      "from": "2026-10-08",
+      "to": "2026-10-08",
+      "reason": "Family emergency",
+      "status": "rejected"
+    },
+    {
+      "id": "leave-1",
+      "student": "Meera Joshi",
+      "className": "Class 10-A",
+      "from": "2026-08-28",
+      "to": "2026-08-29",
+      "reason": "Medical leave",
+      "status": "approved"
+    },
+    {
+      "id": "leave-2",
+      "student": "Aarav Sharma",
+      "className": "Class 10-A",
+      "from": "2026-08-10",
+      "to": "2026-08-10",
+      "reason": "Family emergency",
+      "status": "approved"
+    },
+    {
+      "id": "leave-3",
+      "student": "Arjun Nair",
+      "className": "Class 10-B",
+      "from": "2026-08-18",
+      "to": "2026-08-19",
+      "reason": "Personal work",
+      "status": "rejected"
+    },
+    {
+      "id": "leave-4",
+      "student": "Tanya Kapoor",
+      "className": "Class 10-A",
+      "from": "2026-09-02",
+      "to": "2026-09-03",
+      "reason": "Family emergency",
+      "status": "approved"
+    },
+    {
+      "id": "leave-5",
+      "student": "Avni Sethi",
+      "className": "Class 9-A",
+      "from": "2026-08-12",
+      "to": "2026-08-13",
+      "reason": "Medical leave",
+      "status": "approved"
+    }
+  ],
+  "settings": {
+    "schoolName": "Green Valley Public School",
+    "schoolEmail": "office@greenvalleyschool.in",
+    "adminName": "Anmol Kumar",
+    "schoolPhone": "+91 98765 43210",
+    "academicYear": "2026-27",
+    "workingDays": "6",
+    "lateAfter": "09:00",
+    "minimumAttendance": "75",
+    "language": "English",
+    "theme": "light",
+    "notifications": true,
+    "confirmClear": true
+  },
+  "teachers": [
+    {
+      "id": "teacher-1",
+      "name": "Priya Sharma",
+      "subject": "Mathematics",
+      "className": "Class 10-A",
+      "phone": "+91 98765 43210"
+    },
+    {
+      "id": "teacher-2",
+      "name": "Rahul Verma",
+      "subject": "Science",
+      "className": "Class 10-B",
+      "phone": "+91 98111 22334"
+    },
+    {
+      "id": "teacher-3",
+      "name": "Neha Kapoor",
+      "subject": "English",
+      "className": "Class 9-A",
+      "phone": "+91 98220 44556"
+    },
+    {
+      "id": "teacher-4",
+      "name": "Vikram Singh",
+      "subject": "Social Studies",
+      "className": "Class 10-A",
+      "phone": "+91 98990 11223"
+    },
+    {
+      "id": "teacher-5",
+      "name": "Kavita Rao",
+      "subject": "Hindi",
+      "className": "",
+      "phone": "+91 97654 77889"
+    }
+  ],
+  "parents": {
+    "Class 10-A|01": {
+      "name": "Rajesh Sharma",
+      "phone": "+91 98765 43210",
+      "lastContact": "26/08/2026"
+    },
+    "Class 10-A|02": {
+      "name": "Minal Patel",
+      "phone": "+91 98122 33445",
+      "lastContact": "25/08/2026"
+    },
+    "Class 10-A|03": {
+      "name": "Suresh Singh",
+      "phone": "+91 98987 65432",
+      "lastContact": "24/08/2026"
+    },
+    "Class 10-B|01": {
+      "name": "Nitin Mehta",
+      "phone": "+91 98220 11223",
+      "lastContact": "26/08/2026"
+    },
+    "Class 10-B|02": {
+      "name": "Anjali Shah",
+      "phone": "+91 97666 77889",
+      "lastContact": "23/08/2026"
+    },
+    "Class 9-A|01": {
+      "name": "Rakesh Rao",
+      "phone": "+91 98888 12345",
+      "lastContact": "22/08/2026"
+    },
+    "Class 10-A|07": {
+      "name": "Sunita Gupta",
+      "phone": "+91 97979 11223",
+      "lastContact": "21/08/2026"
+    },
+    "Class 10-A|08": {
+      "name": "Mahesh Malhotra",
+      "phone": "+91 98770 33445",
+      "lastContact": "20/08/2026"
+    },
+    "Class 10-B|05": {
+      "name": "Ritu Joshi",
+      "phone": "+91 98001 44556",
+      "lastContact": "24/08/2026"
+    },
+    "Class 9-A|04": {
+      "name": "Sanjay Sethi",
+      "phone": "+91 98110 66778",
+      "lastContact": "19/08/2026"
+    }
+  },
+  "classMetadata": {
+    "Class 10-A": {
+      "teacher": "Priya Sharma",
+      "room": "Room 204"
+    },
+    "Class 10-B": {
+      "teacher": "Rahul Verma",
+      "room": "Room 205"
+    },
+    "Class 9-A": {
+      "teacher": "Neha Kapoor",
+      "room": "Room 103"
+    },
+    "11-B": {
+      "teacher": "Mukesh",
+      "room": "15"
+    }
+  }
+}

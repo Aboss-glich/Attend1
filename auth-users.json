@@ -1,0 +1,39 @@
+[
+  {
+    "username": "owner",
+    "name": "Anmol Kumar",
+    "role": "owner",
+    "email": "owner@greenvalleyschool.in",
+    "passwordHash": "7a4b3dc0e283d97786714931f9cccb14:2ca699f56f87ad60cfc3677b1358afdb4d02813227a2e29855393e8bec76a4fa5b0e96a0fe04a79e83773521cdb9c32b54418b75c4a547dde4db49222b931006"
+  },
+  {
+    "username": "admin",
+    "name": "Anmol Kumar",
+    "role": "admin",
+    "email": "admin@greenvalleyschool.in",
+    "passwordHash": "505bd771bb7242f0e081b725108df20b:3fa5f6e439d7d942cdff40f5031f62d7882d4a00116df28c52f82b624d827612a2aa75d96e13bf528b722d25617a299ba448f1947b50848d0f5db3d7cf61db79"
+  },
+  {
+    "username": "teacher",
+    "name": "Priya Sharma",
+    "role": "teacher",
+    "email": "priya.sharma@greenvalleyschool.in",
+    "passwordHash": "ef29433c5dd534e77f999ce9e4a7285d:445ebe34f79f4352c7b0dddd1280904a1151ac76c60e7728afd63137292d2b4029c3a3e3ed5bc1cea5df42b6aad4f90a50f4eac9171a032579cff4a3030a1623"
+  },
+  {
+    "username": "staff",
+    "name": "Office Staff",
+    "role": "staff",
+    "email": "office@greenvalleyschool.in",
+    "passwordHash": "d2bb47c3edb437592ce40ae4a26d5675:181d2e689210817497fb9e596d03eee79e31b95301f9cfb9581ef9b7622e5977da8a9ed47a2c409511b2df843552102c49a7b3595c6542d1a300ec69236b3f0d"
+  },
+  {
+    "username": "student",
+    "name": "Aarav Sharma",
+    "role": "student",
+    "className": "Class 10-A",
+    "roll": "01",
+    "email": "aarav.parent@example.com",
+    "passwordHash": "ffac5fe873ddb1e6f1b2346024b2b193:497888d4f1d9aec521ddf8b2b2cee1f814d185eb3756d151dbd53eaf1296764244a7f45de78c520c19d058a0e988357032946a06f28ec2eef0d82fd3a4133bf2"
+  }
+]
